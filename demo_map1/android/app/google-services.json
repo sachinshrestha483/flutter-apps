@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016692826087",
+    "firebase_url": "https://demomap-a433f.firebaseio.com",
+    "project_id": "demomap-a433f",
+    "storage_bucket": "demomap-a433f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016692826087:android:86cebbcbb11a55bd502742",
+        "android_client_info": {
+          "package_name": "com.example.demo_map1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016692826087-it7a26fsqnsok65e4ofg0123cknirejd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxRlg_-cMSfFCLmUFxgOFuVs4cqfqSUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016692826087-it7a26fsqnsok65e4ofg0123cknirejd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

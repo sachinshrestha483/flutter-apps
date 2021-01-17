@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182536695499",
+    "firebase_url": "https://sadgurufireb.firebaseio.com",
+    "project_id": "sadgurufireb",
+    "storage_bucket": "sadgurufireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182536695499:android:79d8baa039dbc2de4ef54e",
+        "android_client_info": {
+          "package_name": "com.example.fluterdemof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182536695499-ku4rbl4q1jug31g65pbmbriakpk0eiao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluterdemof",
+            "certificate_hash": "e68d77dbc25b66a88b2dcc1cec0b40e3bf5fea09"
+          }
+        },
+        {
+          "client_id": "182536695499-be2qmdg3pj306eqcacuqqbq6hvj860ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbeveIYB4R6stKmAbwzBsWEk2ozVZkv50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182536695499-be2qmdg3pj306eqcacuqqbq6hvj860ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580874391383",
+    "firebase_url": "https://lfapp-4fe11.firebaseio.com",
+    "project_id": "lfapp-4fe11",
+    "storage_bucket": "lfapp-4fe11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580874391383:android:42eec79b6a5b946293f812",
+        "android_client_info": {
+          "package_name": "com.example.lfp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580874391383-o6qbb8nr5ehr03ne3mfec0kov7f91qcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmsrH16ZNqMC1mQCnjMcGpjf5L1SslmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580874391383-o6qbb8nr5ehr03ne3mfec0kov7f91qcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

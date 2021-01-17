@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065969478940",
+    "firebase_url": "https://sadguruspeaks-a215d.firebaseio.com",
+    "project_id": "sadguruspeaks-a215d",
+    "storage_bucket": "sadguruspeaks-a215d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065969478940:android:2d45d77e87b4c4a0251ed9",
+        "android_client_info": {
+          "package_name": "com.example.sadgurupodcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065969478940-sc3b9qpor31o5ebct071ic6fcg4gto28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-XB5NaBHWiw43g1XmMtIxpGV5I1Wy8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065969478940-sc3b9qpor31o5ebct071ic6fcg4gto28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

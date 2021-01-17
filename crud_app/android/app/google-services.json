@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833379480515",
+    "firebase_url": "https://mvcapp-bf194.firebaseio.com",
+    "project_id": "mvcapp-bf194",
+    "storage_bucket": "mvcapp-bf194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833379480515:android:283b066e83010a3fc18376",
+        "android_client_info": {
+          "package_name": "com.example.crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833379480515-ei8use637lu6622dc25aiv2io9n41rb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52KpuK6fjG05y7Q7w8sMiYvjOcZXy4g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833379480515-ei8use637lu6622dc25aiv2io9n41rb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
